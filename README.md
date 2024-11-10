@@ -19,12 +19,12 @@
 ### <p align="center">My Technical Skills</p>
 
 <p align="center">
-  <a href="https://portfolio-nine-rosy-72.vercel.app/">
+  <a>
     <img src="https://skillicons.dev/icons?i=c,cpp,python,javascript,typescript" />
   </a>
 </p>
 <p align="center">
-  <a href="https://portfolio-nine-rosy-72.vercel.app/">
+  <a>
     <img src="https://skillicons.dev/icons?i=react,html,css,nodejs,git,github" />
   </a>
 </p>
