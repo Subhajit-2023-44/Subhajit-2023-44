@@ -132,7 +132,7 @@
 
 <br>
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Subhajit-2023-44&bg_color=141414&color=fffdb8&line=fafaff&point=ff5252&area=true&hide_border=true" alt="Subhajit-2023-44" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Subhajit-2023-44&bg_color=0d1117&color=afeddc&line=c5fff2&point=00d7a7&area=true&hide_border=true" alt="Subhajit-2023-44" />
 
 </details>                     
 <br>
