@@ -19,7 +19,7 @@
 
 <p align="center">
   <a>
-    <img src="https://skillicons.dev/icons?i=c,cpp,python,javascript,typescript" />
+    <img src="https://skillicons.dev/icons?i=c,cpp,python,java,javascript,typescript" />
   </a>
 </p>
 <p align="center">
