@@ -79,7 +79,7 @@
 <img alt= "gssoc 2024 stats" width="1020" height="400" src="https://github.com/vishal02527/vishal02527/blob/main/GSSoC24_Stats.png" />-->
 
 ## 🏅 GSSoC'24-Extd(24) Badges :
-<div style='display:flex; align-items:center; gap: 10px;' align='center'><a href="https://gssoc.girlscript.tech/leaderboard">
+<!--<div style='display:flex; align-items:center; gap: 10px;' align='center'><a href="https://gssoc.girlscript.tech/leaderboard">
 <img src="https://raw.githubusercontent.com/GSSoC24/Postman-Challenge/main/docs/assets/8.png" width="100px" height="100px" />
 <img src="https://raw.githubusercontent.com/GSSoC24/Postman-Challenge/main/docs/assets/7.png" width="90px" height="90px" />
 <img src="https://raw.githubusercontent.com/GSSoC24/Postman-Challenge/main/docs/assets/6.png" width="95px" height="95px" />
@@ -89,10 +89,44 @@
 <img src="https://raw.githubusercontent.com/GSSoC24/Postman-Challenge/main/docs/assets/2.png" width="90px" height="90px" />
 <img src="https://raw.githubusercontent.com/GSSoC24/Postman-Challenge/main/docs/assets/1.png" width="90px" height="90px" />
 <img src="https://raw.githubusercontent.com/GSSoC24/Hack-Web3Conf/refs/heads/main/assets/Hack-Web3Conf%202024%20Badge%20(2).png" width="85px" height="85px" />
-<img src="https://raw.githubusercontent.com/GSSoC24/Postman-Challenge/main/docs/assets/Postman%20White.png" width="90px" height="90px" />
+<img src="https://raw.githubusercontent.com/GSSoC24/Postman-Challenge/main/docs/assets/Postman%20White.png" width="90px" height="90px" />-->
 
 
-  <!-- <img src="https://gssoc-dymanic-badges.vercel.app/api/Subhajit-2023-44?year=2024Extd"/></a> -->
+  <!-- <img src="https://gssoc-dymanic-badges.vercel.app/api/Subhajit-2023-44?year=2024Extd"/></a> --> 
+
+  <div style='display:flex; flex-wrap: wrap; justify-content: center; align-items: center; gap: 10px;' align='center'>
+    <!-- First Image - 200x200 -->
+    <a href="https://gssoc.girlscript.tech/leaderboard">
+        <img src="https://raw.githubusercontent.com/GSSoC24/Postman-Challenge/main/docs/assets/8.png" width="120px" height="120px" />
+    </a>
+    <!-- Remaining Images - same size, arranged in two rows -->
+    <a href="https://gssoc.girlscript.tech/leaderboard">
+        <img src="https://raw.githubusercontent.com/GSSoC24/Postman-Challenge/main/docs/assets/7.png" width="75px" height="75px" />
+    </a>
+    <a href="https://gssoc.girlscript.tech/leaderboard">
+        <img src="https://raw.githubusercontent.com/GSSoC24/Postman-Challenge/main/docs/assets/6.png" width="80px" height="80px" />
+    </a>
+    <a href="https://gssoc.girlscript.tech/leaderboard">
+        <img src="https://raw.githubusercontent.com/GSSoC24/Postman-Challenge/main/docs/assets/5.png" width="80px" height="80px" />
+    </a>
+    <a href="https://gssoc.girlscript.tech/leaderboard">
+        <img src="https://raw.githubusercontent.com/GSSoC24/Postman-Challenge/main/docs/assets/4.png" width="70px" height="70px" />
+    </a>
+    <a href="https://gssoc.girlscript.tech/leaderboard">
+        <img src="https://raw.githubusercontent.com/GSSoC24/Postman-Challenge/main/docs/assets/3.png" width="70px" height="70px" />
+    </a>
+    <a href="https://gssoc.girlscript.tech/leaderboard">
+        <img src="https://raw.githubusercontent.com/GSSoC24/Postman-Challenge/main/docs/assets/2.png" width="70px" height="70px" />
+    </a>
+    <a href="https://gssoc.girlscript.tech/leaderboard">
+        <img src="https://raw.githubusercontent.com/GSSoC24/Postman-Challenge/main/docs/assets/1.png" width="70px" height="70px" />
+    </a>
+    <a href="https://gssoc.girlscript.tech/leaderboard">
+        <img src="https://raw.githubusercontent.com/GSSoC24/Hack-Web3Conf/refs/heads/main/assets/Hack-Web3Conf%202024%20Badge%20(2).png" width="70px" height="70px" />
+    </a>
+    <a href="https://gssoc.girlscript.tech/leaderboard">
+        <img src="https://raw.githubusercontent.com/GSSoC24/Postman-Challenge/main/docs/assets/Postman%20White.png" width="74px" height="74px" />
+    </a>
 </div>
 
 <img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" />
