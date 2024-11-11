@@ -5,7 +5,6 @@
 <p align="center"><strong>CSE 2nd Year 💻🚀</strong></p>
 <p align="center"> 
  <img src="https://komarev.com/ghpvc/?username=Subhajit-2023-44&label=Profile%20views&color=0e75b6&style=flat" alt="Subhajit" /> 
- <!-- <img src="https://img.shields.io/badge/Languages-Python | Java | PHP | Typescript | Node | React -green.svg" alt="Deepesh Gupta's languages" /> -->
  <img alt="Profile followers" src="https://img.shields.io/github/followers/Subhajit-2023-44">
 </p>
 
