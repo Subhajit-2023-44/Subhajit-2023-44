@@ -150,3 +150,12 @@
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=Subhajit-2023-44&theme=algolia&card_width=1000&hide_border=true" />
 
 </div>
+
+<!--<div align="center">
+  <div style="display: flex; justify-content: space-between; width: 100%; max-width: 850px;">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Subhajit-2023-44&size_weight=0.5&count_weight=0.5&layout=compact&locale=en&hide_title=false&card_width=420&langs_count=6&theme=github_dark&hide_border=true&order=2" height="160" alt="languages graph" /
+    <img src="https://streak-stats.demolab.com?user=Subhajit-2023-44&locale=en&mode=weekly&theme=github_dark&hide_border=true&border_radius=5&order=3&card_width=383" height="180" alt="streak graph" />
+  </div>
+</div>-->
+
+
