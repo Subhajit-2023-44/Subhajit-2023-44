@@ -24,7 +24,7 @@
 </p>
 <p align="center">
   <a>
-    <img src="https://skillicons.dev/icons?i=react,html,css,nodejs,git,github" />
+    <img src="https://skillicons.dev/icons?i=mysql,cs,react,html,css,nodejs,git,github" />
   </a>
 </p>
 
