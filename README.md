@@ -137,4 +137,16 @@
 </details>                     
 <br>
 
+<!-- -->
 
+<p align="center">
+    <div align="center">
+            <!--<img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Subhajit-2023-44&theme=algolia" width="31%" align="left"/>
+            <img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Subhajit-2023-44&theme=algolia" width="31%" align="right" />
+            <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Subhajit-2023-44&theme=algolia" width="31%" align="center" />--> 
+        </a>
+     
+  </a> 
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Subhajit-2023-44&theme=algolia&card_width=1000&hide_border=true" />
+
+</div>
