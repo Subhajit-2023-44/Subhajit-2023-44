@@ -74,8 +74,12 @@
 
 <img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" />
 
- <!--## 📊 GSSoC'24-Extd(24) Stats :
-<img alt= "gssoc 2024 stats" width="1020" height="400" src="https://github.com/vishal02527/vishal02527/blob/main/GSSoC24_Stats.png" />-->
+
+## 📊 GSSoC'24-Extd(24) Stats :
+<a href="https://gssoc.girlscript.tech/leaderboard">
+<img alt= "gssoc 2024 stats" width="" height="" src="https://i.postimg.cc/254mFWnZ/Screenshot-2024-11-25-181222.png" />
+</a>
+
 
 ## 🏅 GSSoC'24-Extd(24) Badges :
 <!--<div style='display:flex; align-items:center; gap: 10px;' align='center'><a href="https://gssoc.girlscript.tech/leaderboard">
