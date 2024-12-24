@@ -136,7 +136,7 @@
 
 <br>
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Subhajit-2023-44&bg_color=0d1117&color=afeddc&line=c5fff2&point=00d7a7&area=true&hide_border=true" alt="Subhajit-2023-44" />
+<!-- <img src="https://github-readme-activity-graph.vercel.app/graph?username=Subhajit-2023-44&bg_color=0d1117&color=afeddc&line=c5fff2&point=00d7a7&area=true&hide_border=true" alt="Subhajit-2023-44" />-->
 
 </details>                     
 <br>
@@ -151,7 +151,7 @@
         </a>
      
   </a> 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Subhajit-2023-44&theme=algolia&card_width=1000&hide_border=true" />
+<!--<img src="https://github-readme-streak-stats.herokuapp.com/?user=Subhajit-2023-44&theme=algolia&card_width=1000&hide_border=true" />-->
 
 </div>
 
