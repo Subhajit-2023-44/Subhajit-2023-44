@@ -2,7 +2,7 @@
 
 <h1 align="center">Hi 👋, I'm Subhajit</h1>
 <h3 align="center">A passionate Programmer from India</h3>
-<p align="center"><strong>CSE 2nd Year 💻🚀</strong></p>
+<p align="center"><strong>CSE 3rd Year 💻🚀</strong></p>
 <p align="center"> 
  <img src="https://komarev.com/ghpvc/?username=Subhajit-2023-44&label=Profile%20views&color=0e75b6&style=flat" alt="Subhajit" /> 
  <img alt="Profile followers" src="https://img.shields.io/github/followers/Subhajit-2023-44">
