@@ -2,11 +2,11 @@
 
 <h1 align="center">Hi 👋, I'm Subhajit</h1>
 <h3 align="center">A passionate Programmer from India</h3>
-<p align="center"><strong>CSE 4th Year 💻🚀</strong></p>
-<p align="center"> 
+<p align="center"><strong>CSE B.Tech 4th Year 💻🚀</strong></p>
+<!-- <p align="center"> 
  <img src="https://komarev.com/ghpvc/?username=Subhajit-2023-44&label=Profile%20views&color=0e75b6&style=flat" alt="Subhajit" /> 
  <img alt="Profile followers" src="https://img.shields.io/github/followers/Subhajit-2023-44">
-</p>
+</p> -->
 
 <div align="center">
   <a href="https:"><img src="https://img.shields.io/badge/LinkedIn-d5d5d5?style=for-the-badge&logo=linkedin&logoColor=0A0209"/></a>
