@@ -35,15 +35,15 @@
 <img align="right" alt="Coding" width="400" src="https://raw.githubusercontent.com/jayeshmann/jayeshmann/main/code.gif">
 <br><br>
 
-👋 Greetings! It's great to have you here..
+👋 Greetings! It's great to have you here...
 
-🎓 I'm pursuing a B.Tech degree in Computer Science and Engineering..
+🎓 I'm pursuing a B.Tech degree in Computer Science and Engineering...
 
 🌱 Trying to touch and learn one new thing everyday!
 
-😄 I’m currently preparing for my Semester exam..
+😄 I’m currently preparing for my Semester exam...
 
-💬 Ask me about **C, C++, Java, and Python**..
+💬 Ask me about **C, C++, Java, and Python**...
 
 <img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" />
 
